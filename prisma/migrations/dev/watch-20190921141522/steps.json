@@ -1,0 +1,11 @@
+{
+  "version": "0.2.61",
+  "steps": [
+    {
+      "stepType": "UpdateField",
+      "model": "User",
+      "name": "username",
+      "isUnique": true
+    }
+  ]
+}
