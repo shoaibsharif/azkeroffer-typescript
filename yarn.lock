@@ -1361,10 +1361,10 @@ pinkie@^2.0.0:
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
   integrity sha1-clVrgM+g1IqXToDnckjoDtT3+HA=
 
-prisma2@2.0.0-preview-12:
-  version "2.0.0-preview-12"
-  resolved "https://registry.yarnpkg.com/prisma2/-/prisma2-2.0.0-preview-12.tgz#d5c1793ce19950580d21c4d1bf02583e06610ce4"
-  integrity sha512-IZ6oXNo+uBpN9AuT/eSrIWsanbEk+eYNdcJyeaOZsG1OmiC/iPsRZpJAH1e/29uPwFAi9CgD4YBuVq82X0KICg==
+prisma2@2.0.0-alpha.193:
+  version "2.0.0-alpha.193"
+  resolved "https://registry.yarnpkg.com/prisma2/-/prisma2-2.0.0-alpha.193.tgz#7e9592f6c0ca58a8b24249fe21a8859d76e9c874"
+  integrity sha512-xxXygMY4GmrMmw/IGH/lVkRW1OXuNt7ztWvud5JzbZjHujote6RCGk/FDtxqjqUKULLDrGyHzeDVRCH6d+WLUQ==
 
 process-nextick-args@~2.0.0:
   version "2.0.1"
@@ -1728,9 +1728,9 @@ toposort@^2.0.2:
   integrity sha1-riF2gXXRVZ1IvvNUILL0li8JwzA=
 
 tree-kill@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.1.tgz#5398f374e2f292b9dcc7b2e71e30a5c3bb6c743a"
-  integrity sha512-4hjqbObwlh2dLyW4tcz0Ymw0ggoaVDMveUB9w8kFSQScdRLo0gxO9J7WFcUBo+W3C1TLdFIEwNOWebgZZ0RH9Q==
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
+  integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
 trim-newlines@^1.0.0:
   version "1.0.0"
